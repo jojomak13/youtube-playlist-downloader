@@ -11,7 +11,7 @@ open your `terminal` in the project `directory`
 
 2. Write playlist **URL** you want to download
 
-3. you will be asked if you want subtitle or not write [**yes* or **no**]
+3. you will be asked if you want subtitle or not write [**yes** or **no**]
 
 4. press enter
 
