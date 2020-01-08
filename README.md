@@ -15,4 +15,4 @@ open your `terminal` in the project `directory`
 
 4. press enter
 
-5. you will see a directory called `downlods` in the project directory inside of it your downloads will be
+5. you will see a directory called `downloads` in the project directory inside of it your downloads will be
