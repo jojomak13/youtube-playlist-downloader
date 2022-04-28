@@ -6,7 +6,7 @@ open your `terminal` in the project `directory`
 
 1. run `bash` script
 ```
-./downloader.sh
+sh downloader.sh
 ```
 
 2. Write playlist **URL** you want to download
